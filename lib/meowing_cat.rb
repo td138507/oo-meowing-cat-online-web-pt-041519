@@ -9,9 +9,8 @@ def name
   @name = "Maru"
 end
 
-def name (cat)
+def name(cat)
   puts "meow!"
 end
 
 end
-  
